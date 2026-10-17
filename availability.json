@@ -1,0 +1,17 @@
+{
+ "updated": "2026-10-17T17:22:35Z",
+ "plans": {
+  "all_access_monthly": true,
+  "all_access_yearly": true,
+  "nfl_monthly": true,
+  "nfl_season": true,
+  "nba_monthly": true,
+  "nba_yearly": true,
+  "hockey_monthly": true,
+  "hockey_season": true,
+  "soccer_monthly": true,
+  "soccer_yearly": true,
+  "trial": true
+ },
+ "notes": {}
+}
