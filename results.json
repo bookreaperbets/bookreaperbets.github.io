@@ -1,7 +1,99 @@
 {
- "updated": "2026-10-17T18:00:11Z",
- "since": null,
+ "updated": "2026-10-18T19:04:24Z",
+ "since": "2026-10-18",
  "unit_usd": 100,
- "windows": {},
- "by_sport_30d": []
+ "windows": {
+  "7d": {
+   "days": 0,
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "max_drawdown_units": 0.0,
+   "winning_days": 0,
+   "losing_days": 0
+  },
+  "30d": {
+   "days": 0,
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "max_drawdown_units": 0.0,
+   "winning_days": 0,
+   "losing_days": 0
+  },
+  "91d": {
+   "days": 0,
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "max_drawdown_units": 0.0,
+   "winning_days": 0,
+   "losing_days": 0
+  }
+ },
+ "by_sport_30d": [
+  {
+   "sport": "NFL + College Football",
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "staked_usd": 0
+  },
+  {
+   "sport": "Basketball",
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "staked_usd": 0
+  },
+  {
+   "sport": "Hockey",
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "staked_usd": 0
+  },
+  {
+   "sport": "Soccer",
+   "bets": 0,
+   "wins": 0,
+   "losses": 0,
+   "pushes": 0,
+   "win_rate": null,
+   "net_units": 0,
+   "net_usd": 0,
+   "roi_pct": null,
+   "staked_usd": 0
+  }
+ ]
 }
