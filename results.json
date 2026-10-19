@@ -1,63 +1,63 @@
 {
- "updated": "2026-10-18T19:04:24Z",
+ "updated": "2026-10-19T04:06:15Z",
  "since": "2026-10-18",
  "unit_usd": 100,
  "windows": {
   "7d": {
-   "days": 0,
-   "bets": 0,
-   "wins": 0,
-   "losses": 0,
+   "days": 1,
+   "bets": 2,
+   "wins": 1,
+   "losses": 1,
    "pushes": 0,
-   "win_rate": null,
-   "net_units": 0,
-   "net_usd": 0,
-   "roi_pct": null,
-   "max_drawdown_units": 0.0,
+   "win_rate": 0.5,
+   "net_units": -0.31,
+   "net_usd": -31,
+   "roi_pct": -15.5,
+   "max_drawdown_units": 1.0,
    "winning_days": 0,
-   "losing_days": 0
+   "losing_days": 1
   },
   "30d": {
-   "days": 0,
-   "bets": 0,
-   "wins": 0,
-   "losses": 0,
+   "days": 1,
+   "bets": 2,
+   "wins": 1,
+   "losses": 1,
    "pushes": 0,
-   "win_rate": null,
-   "net_units": 0,
-   "net_usd": 0,
-   "roi_pct": null,
-   "max_drawdown_units": 0.0,
+   "win_rate": 0.5,
+   "net_units": -0.31,
+   "net_usd": -31,
+   "roi_pct": -15.5,
+   "max_drawdown_units": 1.0,
    "winning_days": 0,
-   "losing_days": 0
+   "losing_days": 1
   },
   "91d": {
-   "days": 0,
-   "bets": 0,
-   "wins": 0,
-   "losses": 0,
+   "days": 1,
+   "bets": 2,
+   "wins": 1,
+   "losses": 1,
    "pushes": 0,
-   "win_rate": null,
-   "net_units": 0,
-   "net_usd": 0,
-   "roi_pct": null,
-   "max_drawdown_units": 0.0,
+   "win_rate": 0.5,
+   "net_units": -0.31,
+   "net_usd": -31,
+   "roi_pct": -15.5,
+   "max_drawdown_units": 1.0,
    "winning_days": 0,
-   "losing_days": 0
+   "losing_days": 1
   }
  },
  "by_sport_30d": [
   {
    "sport": "NFL + College Football",
-   "bets": 0,
+   "bets": 1,
    "wins": 0,
-   "losses": 0,
+   "losses": 1,
    "pushes": 0,
-   "win_rate": null,
-   "net_units": 0,
-   "net_usd": 0,
-   "roi_pct": null,
-   "staked_usd": 0
+   "win_rate": 0.0,
+   "net_units": -1.0,
+   "net_usd": -100,
+   "roi_pct": -100.0,
+   "staked_usd": 100
   },
   {
    "sport": "Basketball",
@@ -85,15 +85,15 @@
   },
   {
    "sport": "Soccer",
-   "bets": 0,
-   "wins": 0,
+   "bets": 1,
+   "wins": 1,
    "losses": 0,
    "pushes": 0,
-   "win_rate": null,
-   "net_units": 0,
-   "net_usd": 0,
-   "roi_pct": null,
-   "staked_usd": 0
+   "win_rate": 1.0,
+   "net_units": 0.69,
+   "net_usd": 69,
+   "roi_pct": 69.0,
+   "staked_usd": 100
   }
  ]
 }
