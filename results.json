@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:05:36Z",
+ "updated": "2026-10-24T18:21:03Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
@@ -19,45 +19,45 @@
   },
   "30d": {
    "days": 30,
-   "bets": 262,
-   "wins": 155,
+   "bets": 259,
+   "wins": 152,
    "losses": 102,
    "pushes": 5,
-   "win_rate": 0.603,
-   "net_units": 46.62,
-   "net_usd": 4662,
-   "roi_pct": 17.8,
+   "win_rate": 0.598,
+   "net_units": 44.53,
+   "net_usd": 4453,
+   "roi_pct": 17.2,
    "max_drawdown_units": 5.59,
    "winning_days": 20,
    "losing_days": 10
   },
   "91d": {
    "days": 91,
-   "bets": 564,
-   "wins": 358,
-   "losses": 198,
+   "bets": 553,
+   "wins": 352,
+   "losses": 193,
    "pushes": 8,
-   "win_rate": 0.644,
-   "net_units": 138.8,
-   "net_usd": 13880,
-   "roi_pct": 24.6,
+   "win_rate": 0.646,
+   "net_units": 139.02,
+   "net_usd": 13902,
+   "roi_pct": 25.1,
    "max_drawdown_units": 7.0,
-   "winning_days": 60,
-   "losing_days": 26
+   "winning_days": 62,
+   "losing_days": 24
   }
  },
  "by_sport_30d": [
   {
    "sport": "NFL + College Football",
-   "bets": 29,
-   "wins": 17,
+   "bets": 26,
+   "wins": 14,
    "losses": 12,
    "pushes": 0,
-   "win_rate": 0.586,
-   "net_units": 4.6,
-   "net_usd": 460,
-   "roi_pct": 15.9,
-   "staked_usd": 2900
+   "win_rate": 0.538,
+   "net_units": 2.51,
+   "net_usd": 251,
+   "roi_pct": 9.7,
+   "staked_usd": 2600
   },
   {
    "sport": "Basketball",
