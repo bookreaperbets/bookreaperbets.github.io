@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:27:42Z",
+ "updated": "2026-11-02T21:58:16Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
@@ -34,13 +34,13 @@
   "91d": {
    "days": 91,
    "bets": 568,
-   "wins": 359,
-   "losses": 202,
+   "wins": 358,
+   "losses": 203,
    "pushes": 7,
-   "win_rate": 0.64,
-   "net_units": 146.5,
-   "net_usd": 14650,
-   "roi_pct": 25.8,
+   "win_rate": 0.638,
+   "net_units": 144.6,
+   "net_usd": 14460,
+   "roi_pct": 25.5,
    "max_drawdown_units": 12.58,
    "winning_days": 61,
    "losing_days": 26
