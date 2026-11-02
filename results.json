@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:12:42Z",
+ "updated": "2026-11-02T05:27:42Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
@@ -19,30 +19,30 @@
   },
   "30d": {
    "days": 30,
-   "bets": 281,
-   "wins": 164,
-   "losses": 111,
+   "bets": 275,
+   "wins": 160,
+   "losses": 109,
    "pushes": 6,
-   "win_rate": 0.596,
-   "net_units": 48.18,
-   "net_usd": 4818,
-   "roi_pct": 17.1,
-   "max_drawdown_units": 12.03,
+   "win_rate": 0.595,
+   "net_units": 48.3,
+   "net_usd": 4830,
+   "roi_pct": 17.6,
+   "max_drawdown_units": 12.58,
    "winning_days": 19,
    "losing_days": 11
   },
   "91d": {
    "days": 91,
-   "bets": 581,
-   "wins": 367,
-   "losses": 207,
+   "bets": 568,
+   "wins": 359,
+   "losses": 202,
    "pushes": 7,
-   "win_rate": 0.639,
-   "net_units": 145.66,
-   "net_usd": 14566,
-   "roi_pct": 25.1,
-   "max_drawdown_units": 12.03,
-   "winning_days": 62,
+   "win_rate": 0.64,
+   "net_units": 146.5,
+   "net_usd": 14650,
+   "roi_pct": 25.8,
+   "max_drawdown_units": 12.58,
+   "winning_days": 61,
    "losing_days": 26
   }
  },
@@ -85,15 +85,15 @@
   },
   {
    "sport": "Soccer",
-   "bets": 204,
-   "wins": 123,
-   "losses": 75,
+   "bets": 198,
+   "wins": 119,
+   "losses": 73,
    "pushes": 6,
-   "win_rate": 0.621,
-   "net_units": 32.54,
-   "net_usd": 3254,
-   "roi_pct": 16.0,
-   "staked_usd": 20400
+   "win_rate": 0.62,
+   "net_units": 32.66,
+   "net_usd": 3266,
+   "roi_pct": 16.5,
+   "staked_usd": 19800
   }
  ]
 }
