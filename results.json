@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-06T05:15:51Z",
+ "updated": "2026-11-06T05:45:52Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
   "7d": {
    "days": 7,
-   "bets": 52,
-   "wins": 28,
+   "bets": 53,
+   "wins": 29,
    "losses": 24,
    "pushes": 0,
-   "win_rate": 0.538,
-   "net_units": 2.31,
-   "net_usd": 231,
-   "roi_pct": 4.4,
+   "win_rate": 0.547,
+   "net_units": 2.94,
+   "net_usd": 294,
+   "roi_pct": 5.5,
    "max_drawdown_units": 5.07,
-   "winning_days": 4,
-   "losing_days": 3
+   "winning_days": 5,
+   "losing_days": 2
   },
   "30d": {
    "days": 30,
-   "bets": 264,
-   "wins": 151,
+   "bets": 265,
+   "wins": 152,
    "losses": 110,
    "pushes": 3,
-   "win_rate": 0.579,
-   "net_units": 36.37,
-   "net_usd": 3637,
-   "roi_pct": 13.8,
+   "win_rate": 0.58,
+   "net_units": 37.0,
+   "net_usd": 3700,
+   "roi_pct": 14.0,
    "max_drawdown_units": 12.58,
-   "winning_days": 18,
-   "losing_days": 12
+   "winning_days": 19,
+   "losing_days": 11
   },
   "91d": {
    "days": 91,
-   "bets": 586,
-   "wins": 365,
+   "bets": 587,
+   "wins": 366,
    "losses": 214,
    "pushes": 7,
-   "win_rate": 0.63,
-   "net_units": 140.62,
-   "net_usd": 14062,
-   "roi_pct": 24.0,
+   "win_rate": 0.631,
+   "net_units": 141.25,
+   "net_usd": 14125,
+   "roi_pct": 24.1,
    "max_drawdown_units": 12.58,
-   "winning_days": 61,
-   "losing_days": 29
+   "winning_days": 62,
+   "losing_days": 28
   }
  },
  "by_sport_30d": [
@@ -61,15 +61,15 @@
   },
   {
    "sport": "Basketball",
-   "bets": 8,
-   "wins": 5,
+   "bets": 9,
+   "wins": 6,
    "losses": 3,
    "pushes": 0,
-   "win_rate": 0.625,
-   "net_units": 2.42,
-   "net_usd": 242,
-   "roi_pct": 30.3,
-   "staked_usd": 800
+   "win_rate": 0.667,
+   "net_units": 3.05,
+   "net_usd": 305,
+   "roi_pct": 33.9,
+   "staked_usd": 900
   },
   {
    "sport": "Hockey",
