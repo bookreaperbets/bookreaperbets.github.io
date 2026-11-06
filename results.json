@@ -1,63 +1,63 @@
 {
- "updated": "2026-11-05T06:00:03Z",
+ "updated": "2026-11-06T05:00:49Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
   "7d": {
    "days": 7,
-   "bets": 59,
-   "wins": 31,
-   "losses": 28,
+   "bets": 51,
+   "wins": 27,
+   "losses": 24,
    "pushes": 0,
-   "win_rate": 0.525,
-   "net_units": 1.6,
-   "net_usd": 160,
-   "roi_pct": 2.7,
+   "win_rate": 0.529,
+   "net_units": 1.45,
+   "net_usd": 145,
+   "roi_pct": 2.8,
    "max_drawdown_units": 5.07,
    "winning_days": 4,
    "losing_days": 3
   },
   "30d": {
    "days": 30,
-   "bets": 271,
-   "wins": 155,
-   "losses": 113,
+   "bets": 263,
+   "wins": 150,
+   "losses": 110,
    "pushes": 3,
-   "win_rate": 0.578,
-   "net_units": 35.85,
-   "net_usd": 3585,
-   "roi_pct": 13.2,
+   "win_rate": 0.577,
+   "net_units": 35.51,
+   "net_usd": 3551,
+   "roi_pct": 13.5,
    "max_drawdown_units": 12.58,
    "winning_days": 18,
    "losing_days": 12
   },
   "91d": {
    "days": 91,
-   "bets": 584,
+   "bets": 585,
    "wins": 364,
-   "losses": 213,
+   "losses": 214,
    "pushes": 7,
-   "win_rate": 0.631,
-   "net_units": 140.76,
-   "net_usd": 14076,
-   "roi_pct": 24.1,
+   "win_rate": 0.63,
+   "net_units": 139.76,
+   "net_usd": 13976,
+   "roi_pct": 23.9,
    "max_drawdown_units": 12.58,
    "winning_days": 61,
-   "losing_days": 28
+   "losing_days": 29
   }
  },
  "by_sport_30d": [
   {
    "sport": "NFL + College Football",
-   "bets": 12,
+   "bets": 13,
    "wins": 4,
-   "losses": 8,
+   "losses": 9,
    "pushes": 0,
-   "win_rate": 0.333,
-   "net_units": -4.29,
-   "net_usd": -429,
-   "roi_pct": -35.8,
-   "staked_usd": 1200
+   "win_rate": 0.308,
+   "net_units": -5.29,
+   "net_usd": -529,
+   "roi_pct": -40.7,
+   "staked_usd": 1300
   },
   {
    "sport": "Basketball",
@@ -85,15 +85,15 @@
   },
   {
    "sport": "Soccer",
-   "bets": 194,
-   "wins": 117,
-   "losses": 74,
+   "bets": 185,
+   "wins": 112,
+   "losses": 70,
    "pushes": 3,
-   "win_rate": 0.613,
-   "net_units": 27.88,
-   "net_usd": 2788,
-   "roi_pct": 14.4,
-   "staked_usd": 19400
+   "win_rate": 0.615,
+   "net_units": 28.54,
+   "net_usd": 2854,
+   "roi_pct": 15.4,
+   "staked_usd": 18500
   }
  ]
 }
