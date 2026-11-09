@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:48:56Z",
+ "updated": "2026-11-09T22:19:00Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
@@ -10,10 +10,10 @@
    "losses": 25,
    "pushes": 0,
    "win_rate": 0.667,
-   "net_units": 10.6,
-   "net_usd": 1060,
-   "roi_pct": 14.1,
-   "max_drawdown_units": 4.17,
+   "net_units": 15.02,
+   "net_usd": 1502,
+   "roi_pct": 17.1,
+   "max_drawdown_units": 3.62,
    "winning_days": 6,
    "losing_days": 1
   },
@@ -24,10 +24,10 @@
    "losses": 110,
    "pushes": 1,
    "win_rate": 0.639,
-   "net_units": 59.78,
-   "net_usd": 5978,
-   "roi_pct": 19.5,
-   "max_drawdown_units": 10.08,
+   "net_units": 65.97,
+   "net_usd": 6597,
+   "roi_pct": 19.7,
+   "max_drawdown_units": 9.13,
    "winning_days": 23,
    "losing_days": 6
   },
@@ -38,10 +38,10 @@
    "losses": 211,
    "pushes": 4,
    "win_rate": 0.663,
-   "net_units": 171.11,
-   "net_usd": 17111,
-   "roi_pct": 27.2,
-   "max_drawdown_units": 10.08,
+   "net_units": 177.3,
+   "net_usd": 17730,
+   "roi_pct": 26.9,
+   "max_drawdown_units": 9.13,
    "winning_days": 68,
    "losing_days": 21
   }
@@ -66,10 +66,10 @@
    "losses": 7,
    "pushes": 0,
    "win_rate": 0.825,
-   "net_units": 9.13,
-   "net_usd": 913,
-   "roi_pct": 22.8,
-   "staked_usd": 4000
+   "net_units": 15.32,
+   "net_usd": 1532,
+   "roi_pct": 22.2,
+   "staked_usd": 6900
   },
   {
    "sport": "Hockey",
