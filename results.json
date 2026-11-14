@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-14T05:22:54Z",
+ "updated": "2026-11-14T06:22:55Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
   "7d": {
    "days": 7,
-   "bets": 78,
-   "wins": 51,
+   "bets": 82,
+   "wins": 55,
    "losses": 26,
    "pushes": 1,
-   "win_rate": 0.662,
-   "net_units": 15.66,
-   "net_usd": 1566,
-   "roi_pct": 16.7,
+   "win_rate": 0.679,
+   "net_units": 20.6,
+   "net_usd": 2060,
+   "roi_pct": 21.0,
    "max_drawdown_units": 3.45,
-   "winning_days": 6,
-   "losing_days": 1
+   "winning_days": 7,
+   "losing_days": 0
   },
   "30d": {
    "days": 30,
-   "bets": 291,
-   "wins": 186,
+   "bets": 295,
+   "wins": 190,
    "losses": 103,
    "pushes": 2,
-   "win_rate": 0.644,
-   "net_units": 60.41,
-   "net_usd": 6041,
-   "roi_pct": 18.4,
+   "win_rate": 0.648,
+   "net_units": 65.35,
+   "net_usd": 6535,
+   "roi_pct": 19.7,
    "max_drawdown_units": 9.13,
-   "winning_days": 24,
-   "losing_days": 5
+   "winning_days": 25,
+   "losing_days": 4
   },
   "91d": {
    "days": 91,
-   "bets": 656,
-   "wins": 433,
+   "bets": 660,
+   "wins": 437,
    "losses": 218,
    "pushes": 5,
-   "win_rate": 0.665,
-   "net_units": 182.25,
-   "net_usd": 18225,
-   "roi_pct": 26.3,
+   "win_rate": 0.667,
+   "net_units": 187.19,
+   "net_usd": 18719,
+   "roi_pct": 26.9,
    "max_drawdown_units": 9.13,
-   "winning_days": 68,
-   "losing_days": 21
+   "winning_days": 69,
+   "losing_days": 20
   }
  },
  "by_sport_30d": [
@@ -73,15 +73,15 @@
   },
   {
    "sport": "Hockey",
-   "bets": 63,
-   "wins": 33,
+   "bets": 67,
+   "wins": 37,
    "losses": 30,
    "pushes": 0,
-   "win_rate": 0.524,
-   "net_units": 11.6,
-   "net_usd": 1160,
-   "roi_pct": 18.4,
-   "staked_usd": 6300
+   "win_rate": 0.552,
+   "net_units": 16.54,
+   "net_usd": 1654,
+   "roi_pct": 24.7,
+   "staked_usd": 6700
   },
   {
    "sport": "Soccer",
