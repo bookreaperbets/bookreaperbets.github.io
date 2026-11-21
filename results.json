@@ -1,49 +1,49 @@
 {
- "updated": "2026-11-20T05:43:58Z",
+ "updated": "2026-11-21T05:14:36Z",
  "since": "2026-06-13",
  "unit_usd": 100,
  "windows": {
   "7d": {
    "days": 7,
-   "bets": 52,
-   "wins": 33,
-   "losses": 19,
+   "bets": 50,
+   "wins": 29,
+   "losses": 21,
    "pushes": 0,
-   "win_rate": 0.635,
-   "net_units": 9.65,
-   "net_usd": 965,
-   "roi_pct": 15.1,
-   "max_drawdown_units": 3.19,
-   "winning_days": 5,
-   "losing_days": 2
+   "win_rate": 0.58,
+   "net_units": 1.47,
+   "net_usd": 147,
+   "roi_pct": 2.4,
+   "max_drawdown_units": 5.23,
+   "winning_days": 4,
+   "losing_days": 3
   },
   "30d": {
    "days": 30,
-   "bets": 281,
-   "wins": 182,
-   "losses": 97,
+   "bets": 288,
+   "wins": 185,
+   "losses": 101,
    "pushes": 2,
-   "win_rate": 0.652,
-   "net_units": 60.0,
-   "net_usd": 6000,
-   "roi_pct": 18.2,
+   "win_rate": 0.647,
+   "net_units": 56.77,
+   "net_usd": 5677,
+   "roi_pct": 16.8,
    "max_drawdown_units": 8.4,
    "winning_days": 23,
-   "losing_days": 6
+   "losing_days": 7
   },
   "91d": {
    "days": 91,
-   "bets": 667,
+   "bets": 669,
    "wins": 439,
-   "losses": 223,
+   "losses": 225,
    "pushes": 5,
-   "win_rate": 0.663,
-   "net_units": 183.1,
-   "net_usd": 18310,
-   "roi_pct": 25.6,
+   "win_rate": 0.661,
+   "net_units": 178.07,
+   "net_usd": 17807,
+   "roi_pct": 24.8,
    "max_drawdown_units": 9.13,
-   "winning_days": 70,
-   "losing_days": 19
+   "winning_days": 69,
+   "losing_days": 20
   }
  },
  "by_sport_30d": [
@@ -61,15 +61,15 @@
   },
   {
    "sport": "Basketball",
-   "bets": 66,
+   "bets": 67,
    "wins": 51,
-   "losses": 14,
+   "losses": 15,
    "pushes": 1,
-   "win_rate": 0.785,
-   "net_units": 19.04,
-   "net_usd": 1904,
-   "roi_pct": 16.7,
-   "staked_usd": 11400
+   "win_rate": 0.773,
+   "net_units": 17.04,
+   "net_usd": 1704,
+   "roi_pct": 14.7,
+   "staked_usd": 11600
   },
   {
    "sport": "Hockey",
@@ -85,15 +85,15 @@
   },
   {
    "sport": "Soccer",
-   "bets": 131,
-   "wins": 83,
-   "losses": 47,
+   "bets": 137,
+   "wins": 86,
+   "losses": 50,
    "pushes": 1,
-   "win_rate": 0.638,
-   "net_units": 23.05,
-   "net_usd": 2305,
-   "roi_pct": 17.6,
-   "staked_usd": 13100
+   "win_rate": 0.632,
+   "net_units": 21.82,
+   "net_usd": 2182,
+   "roi_pct": 15.9,
+   "staked_usd": 13700
   }
  ]
 }
